@@ -1,0 +1,3 @@
+
+find . -type d -exec chmod ugo+x {} +ish
+find . -type d -exec chmod ugo+x {} iii+
